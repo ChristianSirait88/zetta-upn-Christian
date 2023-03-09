@@ -2,7 +2,7 @@
 
 Tempat Pengumpulan Zetta
 
-##Link Tugas GIT
+## Link Tugas GIT
 - [Tugas Git day 1](https://github.com/ChristianSirait88/zetta_day1)
 - [Tugas Git day 2](https://github.com/ChristianSirait88/zetta-day2)
 - [Tugas Git day 3](https://github.com/ChristianSirait88/zetta-day3)
